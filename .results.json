@@ -1,0 +1,32 @@
+{
+  "stats": {
+    "suites": 0,
+    "tests": 1,
+    "passes": 1,
+    "pending": 0,
+    "failures": 0,
+    "start": "2023-02-11T21:13:51.590Z",
+    "end": "2023-02-11T21:13:51.938Z",
+    "duration": 348
+  },
+  "tests": [
+    {
+      "title": "Test passing",
+      "fullTitle": "Test passing",
+      "duration": 0,
+      "currentRetry": 0,
+      "err": {}
+    }
+  ],
+  "pending": [],
+  "failures": [],
+  "passes": [
+    {
+      "title": "Test passing",
+      "fullTitle": "Test passing",
+      "duration": 0,
+      "currentRetry": 0,
+      "err": {}
+    }
+  ]
+}
